@@ -13,5 +13,5 @@
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Jason Tse`  |  `jtse1`  |
+| ------------ | --------- |
